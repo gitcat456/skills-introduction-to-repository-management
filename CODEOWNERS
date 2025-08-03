@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @gitcat456
+/src/backend/database.py      @gitcat456
+/src/backend/routers/auth.py  @gitcat456
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @gitcat456
